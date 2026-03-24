@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=ML+%2F+AI+Engineer;World+Models+%7C+JEPA+%7C+Representation+Learning;Building+the+future+of+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Aspiring+ML+%2F+AI+Engineer;Learning+%7C+Building+%7C+Exploring" alt="Typing SVG" /></a>
 
 <br/>
 
 # Hey, I'm Andrew Morgan
 
-**ML/AI Engineer** building at the intersection of representation learning, world models, and open-source tooling.
+Aspiring ML/AI engineer exploring world models, representation learning, and open source.
 
 [![GitHub](https://img.shields.io/badge/GitHub-itsanderz-181717?style=flat-square&logo=github)](https://github.com/itsanderz)
 [![Profile Views](https://komarev.com/ghpvc/?username=itsanderz&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/itsanderz)
@@ -18,10 +18,9 @@
 
 ### About Me
 
-- Researching **world models** and **Joint Embedding Predictive Architectures (JEPA)**
-- Building open-source tools for ML evaluation and developer productivity
+- Learning about **world models** and **Joint Embedding Predictive Architectures (JEPA)**
 - Interested in representation learning, out-of-distribution detection, and data-centric AI
-- Currently working on **nanoWM** — a minimal, from-scratch world model in PyTorch
+- Currently tinkering with **nanoWM** — a minimal, from-scratch world model in PyTorch
 
 ---
 
@@ -78,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsanderz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsanderz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanderz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" height="170" />
 
 </div>
