@@ -59,14 +59,8 @@ Aspiring ML/AI engineer exploring world models, representation learning, and ope
 <a href="https://github.com/itsanderz/nanoWM">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanderz&repo=nanoWM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/itsanderz/jepa-score-eval">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanderz&repo=jepa-score-eval&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
 <a href="https://github.com/itsanderz/jamaica-dev-kit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanderz&repo=jamaica-dev-kit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/itsanderz/atlas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanderz&repo=atlas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 </a>
 
 </div>
