@@ -1,97 +1,36 @@
-<div align="center">
+# Andrew Morgan
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Aspiring+ML+%2F+AI+Engineer;Learning+%7C+Building+%7C+Exploring" alt="Typing SVG" /></a>
+Open-source builder focused on developer infrastructure, applied AI, and Jamaica-focused software.
 
-<br/>
+- Maintainer of [`jamaica-dev-kit`](https://github.com/itsanderz/jamaica-dev-kit), a multi-package TypeScript and Python toolkit for identity, finance, geography, public-service, and DX workflows in Jamaica.
+- Building practical AI and research projects across world models, data quality, and developer tooling.
+- Shipping public repos, examples, docs, and package-level test coverage rather than keeping experiments private.
 
-# Hey, I'm Andrew Morgan
+## Current Focus
 
-Aspiring ML/AI engineer exploring world models, representation learning, and open source.
+- Growing `jamaica-dev-kit` into a useful foundation for local startups, civic tech, education, and internal tools.
+- Publishing clearer documentation, examples, and reusable libraries for underrepresented developer ecosystems.
+- Exploring representation learning and world-model systems in public.
 
-[![GitHub](https://img.shields.io/badge/GitHub-itsanderz-181717?style=flat-square&logo=github)](https://github.com/itsanderz)
-[![Profile Views](https://komarev.com/ghpvc/?username=itsanderz&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/itsanderz)
+## Featured Projects
 
-</div>
+- [`jamaica-dev-kit`](https://github.com/itsanderz/jamaica-dev-kit)
+  Production-oriented toolkit spanning 20+ packages, docs, examples, and apps for Jamaica-specific software use cases.
+- [`nanoWM`](https://github.com/itsanderz/nanoWM)
+  Minimal from-scratch world-model implementation in PyTorch.
+- [`jepa-score-eval`](https://github.com/itsanderz/jepa-score-eval)
+  Independent evaluation work around JEPA-SCORE for OOD detection.
 
----
+## Working With
 
-### About Me
+- TypeScript
+- Python
+- PyTorch
+- Next.js
+- FastAPI
+- Monorepos
+- OSS docs and examples
 
-- Learning about **world models** and **Joint Embedding Predictive Architectures (JEPA)**
-- Interested in representation learning, out-of-distribution detection, and data-centric AI
-- Currently tinkering with **nanoWM** — a minimal, from-scratch world model in PyTorch
+## Why This Work Exists
 
----
-
-### Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**ML / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/itsanderz/nanoWM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanderz&repo=nanoWM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/itsanderz/jamaica-dev-kit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanderz&repo=jamaica-dev-kit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsanderz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanderz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsanderz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsanderz&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-<i>"The nanoGPT of world models."</i>
-</div>
+A lot of software infrastructure assumes US or EU defaults. I’m interested in closing those gaps by building tools that make local software ecosystems easier to develop for, especially where data, validation, geography, and public-service workflows are fragmented.
